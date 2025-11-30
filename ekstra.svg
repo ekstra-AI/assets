@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="32" height="32"
-     viewBox="0 0 32 32"
-     xmlns="http://www.w3.org/2000/svg">
-  <image
-    href="https://raw.githubusercontent.com/ekstra-AI/assets/refs/heads/main/photo_2025-11-20_11-18-59.jpg"
+<svg
     width="32"
     height="32"
-    preserveAspectRatio="xMidYMid slice"
+    viewBox="0 0 32 32"
+    xmlns="http://www.w3.org/2000/svg"
+>
+  <image
+      href="https://raw.githubusercontent.com/ekstra-AI/assets/refs/heads/main/photo_2025-11-20_11-18-59.jpg"
+      x="0" y="0"
+      width="32"
+      height="32"
+      preserveAspectRatio="xMidYMid slice"
   />
 </svg>
